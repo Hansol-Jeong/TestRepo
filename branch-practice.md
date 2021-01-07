@@ -4,12 +4,13 @@
 
 - 2002, Tobey Maguire
 
-# Filmography
-
 ## Spyder-Man2
 
-- 2002, Tobey Maguii
+- 2002, Tobey Maguire
+
 ## Spyder-Man3
 
-- 2002, Tobey Maguii
+- 2002, Tobey Maguire
+
+## Amazing spiderman1
 
